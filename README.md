@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shamariyan
-- 👀 I’m interested in Web Application development
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in Web and mobile applications
+- 🌱 I’m currently learning MERN stack, React-native
 - 💞️ I’m looking to collaborate on learning new technologies
 - 📫 How to reach me sharanbalakrish97@gmail.com
 
